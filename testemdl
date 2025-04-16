@@ -1,0 +1,12 @@
+# 🎮 Jogo Tetris em Python
+
+Este é um jogo simples de Tetris feito com a biblioteca `pygame`.
+
+## ✅ Requisitos
+
+- Python 3.x
+- pygame (`pip install pygame`)
+
+## ▶️ Como executar o jogo
+
+1. Clone o repositório ou baixe os arquivos:
